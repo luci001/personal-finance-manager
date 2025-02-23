@@ -1,0 +1,22 @@
+.lnk{
+    text-decoration: none;
+}
+.btnStyle{
+    background-color: red;
+    border: 2px solid red;
+}
+.btnStyle:hover{
+    background-color: rgb(75, 11, 11);
+}
+body {
+    background: url('/bg.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow-x: hidden;
+}
