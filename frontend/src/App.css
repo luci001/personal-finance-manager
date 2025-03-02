@@ -1,0 +1,18 @@
+#root {
+  max-width: auto;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  /* background-color: black; */
+}
+
+.App
+{
+  height: 50%;
+  width: 80vw;
+  padding: 90px;
+  margin: auto;
+  border: 2px rgb(140, 139, 139) solid ;
+  border-radius: 5px;
+  background-color: black;
+}

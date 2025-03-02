@@ -1,0 +1,5 @@
+.card {
+    min-width: 155px;  /* Minimum width */
+    max-width: 200px;  /* Maximum width */
+    width: 100%;       /* Full width within the column */
+}
